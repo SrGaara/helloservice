@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Administrador\Desktop\helloservice-master\HelloService.iml" filepath="C:\Users\Administrador\Desktop\helloservice-master\HelloService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrador\Desktop\helloservice-master\app\app.iml" filepath="C:\Users\Administrador\Desktop\helloservice-master\app\app.iml" />
+      <module fileurl="file://C:\Users\Administrador\Desktop\helloservice-master\helloservice.iml" filepath="C:\Users\Administrador\Desktop\helloservice-master\helloservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservice-master.iml" filepath="$PROJECT_DIR$/helloservice-master.iml" />
+    </modules>
+  </component>
+</project>
